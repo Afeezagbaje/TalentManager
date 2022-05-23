@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=talent_manager
+POSTGRES_USER=neKOKIEZkKMXoZDEENjBIKGrzzdZUMaj
+POSTGRES_PASSWORD=ZnpxE1ma4OGgkZ3QTBbgq1hrlR9t28VTn16mbVCHkhaKVjkPjOMoyIzL8PIw4ndu
